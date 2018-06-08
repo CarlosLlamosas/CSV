@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 sscca hola mundo
+=======
+hola mundo como estan
+>>>>>>> Stashed changes
